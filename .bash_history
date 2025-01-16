@@ -106,3 +106,7 @@ chmod 755 multifile.sh
 ./multifile.sh
 ls -l
 clear
+ls -l
+rm -r ashish
+rm -r ashishbk
+clear
