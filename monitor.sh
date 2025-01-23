@@ -9,7 +9,7 @@ while true; do
 
 
 	#display cpu usage
-	echo "cpu uusage"
+	echo "cpu usage"
 	top -n 1 -b | grep "cpu"
 
 	#display memory usage
